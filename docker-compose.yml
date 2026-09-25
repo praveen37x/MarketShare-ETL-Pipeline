@@ -1,0 +1,13 @@
+version: '3.8'
+
+services:
+  market-share-dashboard:
+    build: .
+    container_name: market-share-dashboard
+    ports:
+      - "8501:8501"
+    volumes:
+      - ./data:/app/data
+    environment:
+      - ENVIRONMENT=production
+    restart: unless-stopped

@@ -1,0 +1,241 @@
+Year,Super Region,Region,Country,Vendor.1,Service 1,Service 2,Service 3,Vertical,Ticker,HQ_Country,VendorRevenue - USD,ConstantCurrency Revenue - USD
+2024,North America,North America,Global Aggregate,Microsoft,Cloud Infrastructure & Platform Services,managed services  ,Enterprise Solutions,Retail & Consumer Goods,MSFT,United States,8432.57,8207.5
+2024,North America,North America,Global Aggregate,Microsoft,Enterprise Application Software,Application Implementation,Enterprise Solutions,Retail & Consumer Goods,MSFT,United States,7731.03,7530.25
+2024,North America,North America,Global Aggregate,Microsoft,IT Management Services,application implementation  ,Enterprise Solutions,Banking & Financial Services,MSFT,United States,7369.22,7261.11
+2024,North America,North America,Global Aggregate,Microsoft,Cybersecurity & Identity,Application Implementation,Enterprise Solutions,Retail & Consumer Goods,MSFT,United States,7736.71,7775.39
+2024,Western Europe,Western Europe,Global Aggregate,Microsoft,Cloud Infrastructure & Platform Services,Managed Services,Enterprise Solutions,Retail & Consumer Goods,MSFT,United States,4139.96,4122.88
+2024,Western Europe,Western Europe,Global Aggregate,Microsoft,Enterprise Application Software,Application Implementation,Enterprise Solutions,Banking & Financial Services,MSFT,United States,5212.68,5172.88
+2024,Western Europe,Western Europe,Global Aggregate,Microsoft,IT Management Services,Infrastructure Operations,Enterprise Solutions,Public Sector & Government,MSFT,United States,5222.93,5079.22
+2024,Western Europe,Western Europe,Global Aggregate,Microsoft,Cybersecurity & Identity,Data & AI Consulting,Enterprise Solutions,Retail & Consumer Goods,MSFT,United States,4592.61,4515.39
+2024,Asia/Pacific,Asia/Pacific,Global Aggregate,Microsoft,Cloud Infrastructure & Platform Services,Application Implementation,Enterprise Solutions,Public Sector & Government,MSFT,United States,3049.5,2954.92
+2024,Asia/Pacific,Asia/Pacific,Global Aggregate,Microsoft,Enterprise Application Software,Infrastructure Operations,Enterprise Solutions,Healthcare & Life Sciences,MSFT,United States,3375.72,3272.25
+2024,Asia/Pacific,Asia/Pacific,Global Aggregate,Microsoft,IT Management Services,Managed Services,Enterprise Solutions,Healthcare & Life Sciences,MSFT,United States,3152.64,3049.86
+2024,Asia/Pacific,Asia/Pacific,Global Aggregate,Microsoft,Cybersecurity & Identity,Managed Services,Enterprise Solutions,Healthcare & Life Sciences,MSFT,United States,3284.79,3211.77
+2024,Latin America,Latin America,Global Aggregate,Microsoft,Cloud Infrastructure & Platform Services,data & ai consulting  ,Enterprise Solutions,Banking & Financial Services,MSFT,United States,900.42,896.49
+2024,Latin America,Latin America,Global Aggregate,Microsoft,Enterprise Application Software,Managed Services,Enterprise Solutions,Public Sector & Government,MSFT,United States,808.57,796.78
+2024,Latin America,Latin America,Global Aggregate,Microsoft,IT Management Services,Managed Services,Enterprise Solutions,Retail & Consumer Goods,MSFT,United States,862.81,877.72
+2024,Latin America,Latin America,Global Aggregate,Microsoft,Cybersecurity & Identity,Infrastructure Operations,Enterprise Solutions,Retail & Consumer Goods,MSFT,United States,759.89,750.46
+2024,Middle East & Africa,Middle East & Africa,Global Aggregate,Microsoft,Cloud Infrastructure & Platform Services,Data & AI Consulting,Enterprise Solutions,Manufacturing,MSFT,United States,468.02,476.55
+2024,Middle East & Africa,Middle East & Africa,Global Aggregate,Microsoft,Enterprise Application Software,Infrastructure Operations,Enterprise Solutions,Public Sector & Government,MSFT,United States,582.76,572.91
+2024,Middle East & Africa,Middle East & Africa,Global Aggregate,Microsoft,IT Management Services,Infrastructure Operations,Enterprise Solutions,Public Sector & Government,MSFT,United States,476.35,479.67
+2024,Middle East & Africa,Middle East & Africa,Global Aggregate,Microsoft,Cybersecurity & Identity,managed services  ,Enterprise Solutions,Retail & Consumer Goods,MSFT,United States,530.03,545.61
+2024,North America,North America,Global Aggregate,Amazon Web Services,Cloud Infrastructure & Platform Services,Managed Services,Enterprise Solutions,Manufacturing,AMZN,United States,9580.88,9265.44
+2024,North America,North America,Global Aggregate,Amazon Web Services,Enterprise Application Software,Infrastructure Operations,Enterprise Solutions,Retail & Consumer Goods,AMZN,United States,8669.09,8707.8
+2024,North America,North America,Global Aggregate,Amazon Web Services,IT Management Services,application implementation  ,Enterprise Solutions,Public Sector & Government,AMZN,United States,8335.31,8329.03
+2024,North America,North America,Global Aggregate,Amazon Web Services,Cybersecurity & Identity,Data & AI Consulting,Enterprise Solutions,Retail & Consumer Goods,AMZN,United States,8881.52,9051.94
+2024,Western Europe,Western Europe,Global Aggregate,Amazon Web Services,Cloud Infrastructure & Platform Services,application implementation  ,Enterprise Solutions,Banking & Financial Services,AMZN,United States,4319.14,4250.09
+2024,Western Europe,Western Europe,Global Aggregate,Amazon Web Services,Enterprise Application Software,infrastructure operations  ,Enterprise Solutions,Retail & Consumer Goods,AMZN,United States,4699.58,4696.53
+2024,Western Europe,Western Europe,Global Aggregate,Amazon Web Services,IT Management Services,application implementation  ,Enterprise Solutions,Retail & Consumer Goods,AMZN,United States,4809.31,4990.38
+2024,Western Europe,Western Europe,Global Aggregate,Amazon Web Services,Cybersecurity & Identity,Data & AI Consulting,Enterprise Solutions,Manufacturing,AMZN,United States,4726.92,4635.37
+2024,Asia/Pacific,Asia/Pacific,Global Aggregate,Amazon Web Services,Cloud Infrastructure & Platform Services,Infrastructure Operations,Enterprise Solutions,Banking & Financial Services,AMZN,United States,3209.56,3269.38
+2024,Asia/Pacific,Asia/Pacific,Global Aggregate,Amazon Web Services,Enterprise Application Software,Managed Services,Enterprise Solutions,Healthcare & Life Sciences,AMZN,United States,3418.21,3321.44
+2024,Asia/Pacific,Asia/Pacific,Global Aggregate,Amazon Web Services,IT Management Services,Infrastructure Operations,Enterprise Solutions,Healthcare & Life Sciences,AMZN,United States,3193.73,3079.49
+2024,Asia/Pacific,Asia/Pacific,Global Aggregate,Amazon Web Services,Cybersecurity & Identity,Data & AI Consulting,Enterprise Solutions,Retail & Consumer Goods,AMZN,United States,2884.77,2836.69
+2024,Latin America,Latin America,Global Aggregate,Amazon Web Services,Cloud Infrastructure & Platform Services,Managed Services,Enterprise Solutions,Healthcare & Life Sciences,AMZN,United States,1000.39,1008.29
+2024,Latin America,Latin America,Global Aggregate,Amazon Web Services,Enterprise Application Software,Application Implementation,Enterprise Solutions,Retail & Consumer Goods,AMZN,United States,1017.67,1032.73
+2024,Latin America,Latin America,Global Aggregate,Amazon Web Services,IT Management Services,Data & AI Consulting,Enterprise Solutions,Retail & Consumer Goods,AMZN,United States,814.42,819.64
+2024,Latin America,Latin America,Global Aggregate,Amazon Web Services,Cybersecurity & Identity,application implementation  ,Enterprise Solutions,Manufacturing,AMZN,United States,866.02,885.34
+2024,Middle East & Africa,Middle East & Africa,Global Aggregate,Amazon Web Services,Cloud Infrastructure & Platform Services,Infrastructure Operations,Enterprise Solutions,Healthcare & Life Sciences,AMZN,United States,489.75,476.22
+2024,Middle East & Africa,Middle East & Africa,Global Aggregate,Amazon Web Services,Enterprise Application Software,Application Implementation,Enterprise Solutions,Manufacturing,AMZN,United States,575.0,590.25
+2024,Middle East & Africa,Middle East & Africa,Global Aggregate,Amazon Web Services,IT Management Services,Managed Services,Enterprise Solutions,Banking & Financial Services,AMZN,United States,492.11,477.59
+2024,Middle East & Africa,Middle East & Africa,Global Aggregate,Amazon Web Services,Cybersecurity & Identity,Managed Services,Enterprise Solutions,Retail & Consumer Goods,AMZN,United States,587.95,570.97
+2024,North America,North America,Global Aggregate,Google Cloud,Cloud Infrastructure & Platform Services,data & ai consulting  ,Enterprise Solutions,Retail & Consumer Goods,GOOGL,United States,6881.02,7054.19
+2024,North America,North America,Global Aggregate,Google Cloud,Enterprise Application Software,application implementation  ,Enterprise Solutions,Healthcare & Life Sciences,GOOGL,United States,8466.07,8335.64
+2024,North America,North America,Global Aggregate,Google Cloud,IT Management Services,application implementation  ,Enterprise Solutions,Banking & Financial Services,GOOGL,United States,7833.19,7998.02
+2024,North America,North America,Global Aggregate,Google Cloud,Cybersecurity & Identity,managed services  ,Enterprise Solutions,Public Sector & Government,GOOGL,United States,8632.65,8316.71
+2024,Western Europe,Western Europe,Global Aggregate,Google Cloud,Cloud Infrastructure & Platform Services,managed services  ,Enterprise Solutions,Manufacturing,GOOGL,United States,4462.24,4451.2
+2024,Western Europe,Western Europe,Global Aggregate,Google Cloud,Enterprise Application Software,data & ai consulting  ,Enterprise Solutions,Retail & Consumer Goods,GOOGL,United States,4559.14,4651.98
+2024,Western Europe,Western Europe,Global Aggregate,Google Cloud,IT Management Services,Managed Services,Enterprise Solutions,Healthcare & Life Sciences,GOOGL,United States,4454.98,4348.07
+2024,Western Europe,Western Europe,Global Aggregate,Google Cloud,Cybersecurity & Identity,data & ai consulting  ,Enterprise Solutions,Healthcare & Life Sciences,GOOGL,United States,4791.31,4960.67
+2024,Asia/Pacific,Asia/Pacific,Global Aggregate,Google Cloud,Cloud Infrastructure & Platform Services,Data & AI Consulting,Enterprise Solutions,Manufacturing,GOOGL,United States,3258.4,3287.84
+2024,Asia/Pacific,Asia/Pacific,Global Aggregate,Google Cloud,Enterprise Application Software,managed services  ,Enterprise Solutions,Manufacturing,GOOGL,United States,3242.57,3250.05
+2024,Asia/Pacific,Asia/Pacific,Global Aggregate,Google Cloud,IT Management Services,Application Implementation,Enterprise Solutions,Healthcare & Life Sciences,GOOGL,United States,3367.36,3377.36
+2024,Asia/Pacific,Asia/Pacific,Global Aggregate,Google Cloud,Cybersecurity & Identity,Managed Services,Enterprise Solutions,Manufacturing,GOOGL,United States,3321.96,3315.24
+2024,Latin America,Latin America,Global Aggregate,Google Cloud,Cloud Infrastructure & Platform Services,Application Implementation,Enterprise Solutions,Banking & Financial Services,GOOGL,United States,754.86,746.09
+2024,Latin America,Latin America,Global Aggregate,Google Cloud,Enterprise Application Software,Infrastructure Operations,Enterprise Solutions,Manufacturing,GOOGL,United States,766.56,742.82
+2024,Latin America,Latin America,Global Aggregate,Google Cloud,IT Management Services,data & ai consulting  ,Enterprise Solutions,Banking & Financial Services,GOOGL,United States,839.73,839.45
+2024,Latin America,Latin America,Global Aggregate,Google Cloud,Cybersecurity & Identity,Data & AI Consulting,Enterprise Solutions,Manufacturing,GOOGL,United States,890.42,860.66
+2024,Middle East & Africa,Middle East & Africa,Global Aggregate,Google Cloud,Cloud Infrastructure & Platform Services,infrastructure operations  ,Enterprise Solutions,Retail & Consumer Goods,GOOGL,United States,494.4,503.74
+2024,Middle East & Africa,Middle East & Africa,Global Aggregate,Google Cloud,Enterprise Application Software,infrastructure operations  ,Enterprise Solutions,Public Sector & Government,GOOGL,United States,469.41,482.75
+2024,Middle East & Africa,Middle East & Africa,Global Aggregate,Google Cloud,IT Management Services,Application Implementation,Enterprise Solutions,Public Sector & Government,GOOGL,United States,566.85,560.84
+2024,Middle East & Africa,Middle East & Africa,Global Aggregate,Google Cloud,Cybersecurity & Identity,Managed Services,Enterprise Solutions,Public Sector & Government,GOOGL,United States,526.73,522.36
+2024,North America,North America,Global Aggregate,IBM,Cloud Infrastructure & Platform Services,managed services  ,Enterprise Solutions,Public Sector & Government,IBM,United States,1411.37,1421.59
+2024,North America,North America,Global Aggregate,IBM,Enterprise Application Software,Managed Services,Enterprise Solutions,Healthcare & Life Sciences,IBM,United States,1264.77,1312.85
+2024,North America,North America,Global Aggregate,IBM,IT Management Services,data & ai consulting  ,Enterprise Solutions,Public Sector & Government,IBM,United States,1290.11,1325.01
+2024,North America,North America,Global Aggregate,IBM,Cybersecurity & Identity,Infrastructure Operations,Enterprise Solutions,Manufacturing,IBM,United States,1495.61,1526.28
+2024,Western Europe,Western Europe,Global Aggregate,IBM,Cloud Infrastructure & Platform Services,Infrastructure Operations,Enterprise Solutions,Manufacturing,IBM,United States,894.4,929.28
+2024,Western Europe,Western Europe,Global Aggregate,IBM,Enterprise Application Software,data & ai consulting  ,Enterprise Solutions,Public Sector & Government,IBM,United States,695.33,681.46
+2024,Western Europe,Western Europe,Global Aggregate,IBM,IT Management Services,infrastructure operations  ,Enterprise Solutions,Healthcare & Life Sciences,IBM,United States,676.81,689.69
+2024,Western Europe,Western Europe,Global Aggregate,IBM,Cybersecurity & Identity,Managed Services,Enterprise Solutions,Banking & Financial Services,IBM,United States,899.58,891.13
+2024,Asia/Pacific,Asia/Pacific,Global Aggregate,IBM,Cloud Infrastructure & Platform Services,data & ai consulting  ,Enterprise Solutions,Manufacturing,IBM,United States,565.7,577.47
+2024,Asia/Pacific,Asia/Pacific,Global Aggregate,IBM,Enterprise Application Software,Infrastructure Operations,Enterprise Solutions,Healthcare & Life Sciences,IBM,United States,511.74,511.65
+2024,Asia/Pacific,Asia/Pacific,Global Aggregate,IBM,IT Management Services,Data & AI Consulting,Enterprise Solutions,Manufacturing,IBM,United States,553.16,573.19
+2024,Asia/Pacific,Asia/Pacific,Global Aggregate,IBM,Cybersecurity & Identity,Managed Services,Enterprise Solutions,Banking & Financial Services,IBM,United States,526.48,518.67
+2024,Latin America,Latin America,Global Aggregate,IBM,Cloud Infrastructure & Platform Services,Infrastructure Operations,Enterprise Solutions,Banking & Financial Services,IBM,United States,130.3,130.89
+2024,Latin America,Latin America,Global Aggregate,IBM,Enterprise Application Software,Data & AI Consulting,Enterprise Solutions,Healthcare & Life Sciences,IBM,United States,151.15,146.73
+2024,Latin America,Latin America,Global Aggregate,IBM,IT Management Services,Infrastructure Operations,Enterprise Solutions,Banking & Financial Services,IBM,United States,154.67,154.55
+2024,Latin America,Latin America,Global Aggregate,IBM,Cybersecurity & Identity,Infrastructure Operations,Enterprise Solutions,Healthcare & Life Sciences,IBM,United States,151.84,150.52
+2024,Middle East & Africa,Middle East & Africa,Global Aggregate,IBM,Cloud Infrastructure & Platform Services,Infrastructure Operations,Enterprise Solutions,Public Sector & Government,IBM,United States,94.11,93.0
+2024,Middle East & Africa,Middle East & Africa,Global Aggregate,IBM,Enterprise Application Software,Data & AI Consulting,Enterprise Solutions,Banking & Financial Services,IBM,United States,93.39,90.61
+2024,Middle East & Africa,Middle East & Africa,Global Aggregate,IBM,IT Management Services,Data & AI Consulting,Enterprise Solutions,Manufacturing,IBM,United States,78.02,80.46
+2024,Middle East & Africa,Middle East & Africa,Global Aggregate,IBM,Cybersecurity & Identity,Data & AI Consulting,Enterprise Solutions,Public Sector & Government,IBM,United States,86.7,85.71
+2024,North America,North America,Global Aggregate,Oracle,Cloud Infrastructure & Platform Services,application implementation  ,Enterprise Solutions,Retail & Consumer Goods,ORCL,United States,2530.63,2613.71
+2024,North America,North America,Global Aggregate,Oracle,Enterprise Application Software,Managed Services,Enterprise Solutions,Banking & Financial Services,ORCL,United States,2342.32,2252.32
+2024,North America,North America,Global Aggregate,Oracle,IT Management Services,data & ai consulting  ,Enterprise Solutions,Public Sector & Government,ORCL,United States,2512.55,2593.23
+2024,North America,North America,Global Aggregate,Oracle,Cybersecurity & Identity,data & ai consulting  ,Enterprise Solutions,Public Sector & Government,ORCL,United States,2527.28,2625.49
+2024,Western Europe,Western Europe,Global Aggregate,Oracle,Cloud Infrastructure & Platform Services,Infrastructure Operations,Enterprise Solutions,Retail & Consumer Goods,ORCL,United States,1362.76,1396.37
+2024,Western Europe,Western Europe,Global Aggregate,Oracle,Enterprise Application Software,Managed Services,Enterprise Solutions,Healthcare & Life Sciences,ORCL,United States,1268.1,1268.38
+2024,Western Europe,Western Europe,Global Aggregate,Oracle,IT Management Services,data & ai consulting  ,Enterprise Solutions,Retail & Consumer Goods,ORCL,United States,1279.05,1272.5
+2024,Western Europe,Western Europe,Global Aggregate,Oracle,Cybersecurity & Identity,Infrastructure Operations,Enterprise Solutions,Banking & Financial Services,ORCL,United States,1469.93,1474.14
+2024,Asia/Pacific,Asia/Pacific,Global Aggregate,Oracle,Cloud Infrastructure & Platform Services,Data & AI Consulting,Enterprise Solutions,Retail & Consumer Goods,ORCL,United States,1060.81,1052.5
+2024,Asia/Pacific,Asia/Pacific,Global Aggregate,Oracle,Enterprise Application Software,Application Implementation,Enterprise Solutions,Banking & Financial Services,ORCL,United States,983.66,989.81
+2024,Asia/Pacific,Asia/Pacific,Global Aggregate,Oracle,IT Management Services,Data & AI Consulting,Enterprise Solutions,Manufacturing,ORCL,United States,1006.79,1004.8
+2024,Asia/Pacific,Asia/Pacific,Global Aggregate,Oracle,Cybersecurity & Identity,Application Implementation,Enterprise Solutions,Banking & Financial Services,ORCL,United States,965.33,950.03
+2024,Latin America,Latin America,Global Aggregate,Oracle,Cloud Infrastructure & Platform Services,Data & AI Consulting,Enterprise Solutions,Manufacturing,ORCL,United States,242.13,240.47
+2024,Latin America,Latin America,Global Aggregate,Oracle,Enterprise Application Software,Data & AI Consulting,Enterprise Solutions,Public Sector & Government,ORCL,United States,269.69,270.72
+2024,Latin America,Latin America,Global Aggregate,Oracle,IT Management Services,Managed Services,Enterprise Solutions,Manufacturing,ORCL,United States,284.4,286.15
+2024,Latin America,Latin America,Global Aggregate,Oracle,Cybersecurity & Identity,Application Implementation,Enterprise Solutions,Public Sector & Government,ORCL,United States,238.63,241.26
+2024,Middle East & Africa,Middle East & Africa,Global Aggregate,Oracle,Cloud Infrastructure & Platform Services,Infrastructure Operations,Enterprise Solutions,Banking & Financial Services,ORCL,United States,154.92,153.24
+2024,Middle East & Africa,Middle East & Africa,Global Aggregate,Oracle,Enterprise Application Software,application implementation  ,Enterprise Solutions,Retail & Consumer Goods,ORCL,United States,169.78,168.56
+2024,Middle East & Africa,Middle East & Africa,Global Aggregate,Oracle,IT Management Services,Managed Services,Enterprise Solutions,Public Sector & Government,ORCL,United States,143.13,140.69
+2024,Middle East & Africa,Middle East & Africa,Global Aggregate,Oracle,Cybersecurity & Identity,Application Implementation,Enterprise Solutions,Manufacturing,ORCL,United States,141.71,138.75
+2024,North America,North America,Global Aggregate,Salesforce,Cloud Infrastructure & Platform Services,managed services  ,Enterprise Solutions,Retail & Consumer Goods,CRM,United States,2334.73,2345.9
+2024,North America,North America,Global Aggregate,Salesforce,Enterprise Application Software,Infrastructure Operations,Enterprise Solutions,Banking & Financial Services,CRM,United States,2149.11,2110.03
+2024,North America,North America,Global Aggregate,Salesforce,IT Management Services,Managed Services,Enterprise Solutions,Retail & Consumer Goods,CRM,United States,2472.45,2408.36
+2024,North America,North America,Global Aggregate,Salesforce,Cybersecurity & Identity,Managed Services,Enterprise Solutions,Public Sector & Government,CRM,United States,2559.94,2468.87
+2024,Western Europe,Western Europe,Global Aggregate,Salesforce,Cloud Infrastructure & Platform Services,Managed Services,Enterprise Solutions,Retail & Consumer Goods,CRM,United States,1419.21,1464.69
+2024,Western Europe,Western Europe,Global Aggregate,Salesforce,Enterprise Application Software,Infrastructure Operations,Enterprise Solutions,Banking & Financial Services,CRM,United States,1238.85,1272.53
+2024,Western Europe,Western Europe,Global Aggregate,Salesforce,IT Management Services,application implementation  ,Enterprise Solutions,Manufacturing,CRM,United States,1368.32,1415.71
+2024,Western Europe,Western Europe,Global Aggregate,Salesforce,Cybersecurity & Identity,Data & AI Consulting,Enterprise Solutions,Banking & Financial Services,CRM,United States,1177.94,1142.35
+2024,Asia/Pacific,Asia/Pacific,Global Aggregate,Salesforce,Cloud Infrastructure & Platform Services,Data & AI Consulting,Enterprise Solutions,Manufacturing,CRM,United States,948.03,971.23
+2024,Asia/Pacific,Asia/Pacific,Global Aggregate,Salesforce,Enterprise Application Software,Application Implementation,Enterprise Solutions,Healthcare & Life Sciences,CRM,United States,790.59,770.04
+2024,Asia/Pacific,Asia/Pacific,Global Aggregate,Salesforce,IT Management Services,Data & AI Consulting,Enterprise Solutions,Retail & Consumer Goods,CRM,United States,981.4,946.53
+2024,Asia/Pacific,Asia/Pacific,Global Aggregate,Salesforce,Cybersecurity & Identity,Data & AI Consulting,Enterprise Solutions,Banking & Financial Services,CRM,United States,836.32,831.22
+2024,Latin America,Latin America,Global Aggregate,Salesforce,Cloud Infrastructure & Platform Services,Application Implementation,Enterprise Solutions,Healthcare & Life Sciences,CRM,United States,235.74,239.81
+2024,Latin America,Latin America,Global Aggregate,Salesforce,Enterprise Application Software,data & ai consulting  ,Enterprise Solutions,Manufacturing,CRM,United States,211.54,215.59
+2024,Latin America,Latin America,Global Aggregate,Salesforce,IT Management Services,Managed Services,Enterprise Solutions,Healthcare & Life Sciences,CRM,United States,227.63,225.53
+2024,Latin America,Latin America,Global Aggregate,Salesforce,Cybersecurity & Identity,Data & AI Consulting,Enterprise Solutions,Banking & Financial Services,CRM,United States,248.42,243.18
+2024,Middle East & Africa,Middle East & Africa,Global Aggregate,Salesforce,Cloud Infrastructure & Platform Services,Infrastructure Operations,Enterprise Solutions,Public Sector & Government,CRM,United States,166.42,171.98
+2024,Middle East & Africa,Middle East & Africa,Global Aggregate,Salesforce,Enterprise Application Software,data & ai consulting  ,Enterprise Solutions,Healthcare & Life Sciences,CRM,United States,138.54,142.52
+2024,Middle East & Africa,Middle East & Africa,Global Aggregate,Salesforce,IT Management Services,Application Implementation,Enterprise Solutions,Retail & Consumer Goods,CRM,United States,164.3,167.81
+2024,Middle East & Africa,Middle East & Africa,Global Aggregate,Salesforce,Cybersecurity & Identity,Infrastructure Operations,Enterprise Solutions,Retail & Consumer Goods,CRM,United States,163.72,167.95
+2024,North America,North America,Global Aggregate,SAP,Cloud Infrastructure & Platform Services,Infrastructure Operations,Enterprise Solutions,Retail & Consumer Goods,SAP,Germany,2941.43,3030.09
+2024,North America,North America,Global Aggregate,SAP,Enterprise Application Software,Managed Services,Enterprise Solutions,Retail & Consumer Goods,SAP,Germany,2766.59,2733.8
+2024,North America,North America,Global Aggregate,SAP,IT Management Services,Data & AI Consulting,Enterprise Solutions,Banking & Financial Services,SAP,Germany,2978.37,3012.05
+2024,North America,North America,Global Aggregate,SAP,Cybersecurity & Identity,Application Implementation,Enterprise Solutions,Healthcare & Life Sciences,SAP,Germany,2349.69,2293.31
+2024,Western Europe,Western Europe,Global Aggregate,SAP,Cloud Infrastructure & Platform Services,Data & AI Consulting,Enterprise Solutions,Banking & Financial Services,SAP,Germany,1321.1,1294.64
+2024,Western Europe,Western Europe,Global Aggregate,SAP,Enterprise Application Software,Application Implementation,Enterprise Solutions,Public Sector & Government,SAP,Germany,1627.04,1603.53
+2024,Western Europe,Western Europe,Global Aggregate,SAP,IT Management Services,Infrastructure Operations,Enterprise Solutions,Healthcare & Life Sciences,SAP,Germany,1388.34,1409.16
+2024,Western Europe,Western Europe,Global Aggregate,SAP,Cybersecurity & Identity,Data & AI Consulting,Enterprise Solutions,Healthcare & Life Sciences,SAP,Germany,1309.24,1295.37
+2024,Asia/Pacific,Asia/Pacific,Global Aggregate,SAP,Cloud Infrastructure & Platform Services,Infrastructure Operations,Enterprise Solutions,Manufacturing,SAP,Germany,949.92,983.97
+2024,Asia/Pacific,Asia/Pacific,Global Aggregate,SAP,Enterprise Application Software,Application Implementation,Enterprise Solutions,Public Sector & Government,SAP,Germany,941.77,956.93
+2024,Asia/Pacific,Asia/Pacific,Global Aggregate,SAP,IT Management Services,application implementation  ,Enterprise Solutions,Manufacturing,SAP,Germany,1013.42,993.98
+2024,Asia/Pacific,Asia/Pacific,Global Aggregate,SAP,Cybersecurity & Identity,Managed Services,Enterprise Solutions,Healthcare & Life Sciences,SAP,Germany,1174.44,1138.49
+2024,Latin America,Latin America,Global Aggregate,SAP,Cloud Infrastructure & Platform Services,Infrastructure Operations,Enterprise Solutions,Public Sector & Government,SAP,Germany,315.88,315.73
+2024,Latin America,Latin America,Global Aggregate,SAP,Enterprise Application Software,Application Implementation,Enterprise Solutions,Healthcare & Life Sciences,SAP,Germany,326.13,334.31
+2024,Latin America,Latin America,Global Aggregate,SAP,IT Management Services,Data & AI Consulting,Enterprise Solutions,Public Sector & Government,SAP,Germany,277.46,275.94
+2024,Latin America,Latin America,Global Aggregate,SAP,Cybersecurity & Identity,Application Implementation,Enterprise Solutions,Retail & Consumer Goods,SAP,Germany,307.2,299.57
+2024,Middle East & Africa,Middle East & Africa,Global Aggregate,SAP,Cloud Infrastructure & Platform Services,Application Implementation,Enterprise Solutions,Healthcare & Life Sciences,SAP,Germany,148.19,153.83
+2024,Middle East & Africa,Middle East & Africa,Global Aggregate,SAP,Enterprise Application Software,Application Implementation,Enterprise Solutions,Healthcare & Life Sciences,SAP,Germany,165.83,168.27
+2024,Middle East & Africa,Middle East & Africa,Global Aggregate,SAP,IT Management Services,infrastructure operations  ,Enterprise Solutions,Public Sector & Government,SAP,Germany,153.59,151.42
+2024,Middle East & Africa,Middle East & Africa,Global Aggregate,SAP,Cybersecurity & Identity,Infrastructure Operations,Enterprise Solutions,Public Sector & Government,SAP,Germany,183.38,186.84
+2024,North America,North America,Global Aggregate,Accenture,Cloud Infrastructure & Platform Services,Managed Services,Enterprise Solutions,Banking & Financial Services,ACN,Ireland,1308.5,1280.74
+2024,North America,North America,Global Aggregate,Accenture,Enterprise Application Software,Data & AI Consulting,Enterprise Solutions,Manufacturing,ACN,Ireland,1464.18,1500.47
+2024,North America,North America,Global Aggregate,Accenture,IT Management Services,Managed Services,Enterprise Solutions,Manufacturing,ACN,Ireland,1328.37,1379.12
+2024,North America,North America,Global Aggregate,Accenture,Cybersecurity & Identity,data & ai consulting  ,Enterprise Solutions,Manufacturing,ACN,Ireland,1187.93,1157.46
+2024,Western Europe,Western Europe,Global Aggregate,Accenture,Cloud Infrastructure & Platform Services,Application Implementation,Enterprise Solutions,Retail & Consumer Goods,ACN,Ireland,830.78,806.32
+2024,Western Europe,Western Europe,Global Aggregate,Accenture,Enterprise Application Software,Data & AI Consulting,Enterprise Solutions,Public Sector & Government,ACN,Ireland,666.0,645.59
+2024,Western Europe,Western Europe,Global Aggregate,Accenture,IT Management Services,Managed Services,Enterprise Solutions,Public Sector & Government,ACN,Ireland,829.39,851.6
+2024,Western Europe,Western Europe,Global Aggregate,Accenture,Cybersecurity & Identity,Data & AI Consulting,Enterprise Solutions,Retail & Consumer Goods,ACN,Ireland,836.35,820.51
+2024,Asia/Pacific,Asia/Pacific,Global Aggregate,Accenture,Cloud Infrastructure & Platform Services,Data & AI Consulting,Enterprise Solutions,Public Sector & Government,ACN,Ireland,577.44,568.92
+2024,Asia/Pacific,Asia/Pacific,Global Aggregate,Accenture,Enterprise Application Software,Infrastructure Operations,Enterprise Solutions,Healthcare & Life Sciences,ACN,Ireland,525.22,542.99
+2024,Asia/Pacific,Asia/Pacific,Global Aggregate,Accenture,IT Management Services,infrastructure operations  ,Enterprise Solutions,Healthcare & Life Sciences,ACN,Ireland,447.56,436.21
+2024,Asia/Pacific,Asia/Pacific,Global Aggregate,Accenture,Cybersecurity & Identity,Infrastructure Operations,Enterprise Solutions,Public Sector & Government,ACN,Ireland,506.74,526.82
+2024,Latin America,Latin America,Global Aggregate,Accenture,Cloud Infrastructure & Platform Services,infrastructure operations  ,Enterprise Solutions,Retail & Consumer Goods,ACN,Ireland,164.54,165.34
+2024,Latin America,Latin America,Global Aggregate,Accenture,Enterprise Application Software,Infrastructure Operations,Enterprise Solutions,Healthcare & Life Sciences,ACN,Ireland,127.3,123.16
+2024,Latin America,Latin America,Global Aggregate,Accenture,IT Management Services,data & ai consulting  ,Enterprise Solutions,Healthcare & Life Sciences,ACN,Ireland,154.26,158.24
+2024,Latin America,Latin America,Global Aggregate,Accenture,Cybersecurity & Identity,Application Implementation,Enterprise Solutions,Banking & Financial Services,ACN,Ireland,144.62,145.44
+2024,Middle East & Africa,Middle East & Africa,Global Aggregate,Accenture,Cloud Infrastructure & Platform Services,Infrastructure Operations,Enterprise Solutions,Healthcare & Life Sciences,ACN,Ireland,93.03,94.35
+2024,Middle East & Africa,Middle East & Africa,Global Aggregate,Accenture,Enterprise Application Software,data & ai consulting  ,Enterprise Solutions,Banking & Financial Services,ACN,Ireland,83.36,83.96
+2024,Middle East & Africa,Middle East & Africa,Global Aggregate,Accenture,IT Management Services,Managed Services,Enterprise Solutions,Healthcare & Life Sciences,ACN,Ireland,73.93,73.69
+2024,Middle East & Africa,Middle East & Africa,Global Aggregate,Accenture,Cybersecurity & Identity,Infrastructure Operations,Enterprise Solutions,Retail & Consumer Goods,ACN,Ireland,88.53,85.03
+2024,North America,North America,Global Aggregate,Tata Consultancy Services,Cloud Infrastructure & Platform Services,Infrastructure Operations,Enterprise Solutions,Manufacturing,TCS.NS,India,1408.07,1448.99
+2024,North America,North America,Global Aggregate,Tata Consultancy Services,Enterprise Application Software,Data & AI Consulting,Enterprise Solutions,Banking & Financial Services,TCS.NS,India,1700.11,1706.52
+2024,North America,North America,Global Aggregate,Tata Consultancy Services,IT Management Services,infrastructure operations  ,Enterprise Solutions,Retail & Consumer Goods,TCS.NS,India,1431.21,1484.46
+2024,North America,North America,Global Aggregate,Tata Consultancy Services,Cybersecurity & Identity,infrastructure operations  ,Enterprise Solutions,Healthcare & Life Sciences,TCS.NS,India,1424.04,1455.88
+2024,Western Europe,Western Europe,Global Aggregate,Tata Consultancy Services,Cloud Infrastructure & Platform Services,Data & AI Consulting,Enterprise Solutions,Healthcare & Life Sciences,TCS.NS,India,760.46,759.9
+2024,Western Europe,Western Europe,Global Aggregate,Tata Consultancy Services,Enterprise Application Software,Infrastructure Operations,Enterprise Solutions,Retail & Consumer Goods,TCS.NS,India,962.07,970.04
+2024,Western Europe,Western Europe,Global Aggregate,Tata Consultancy Services,IT Management Services,Data & AI Consulting,Enterprise Solutions,Retail & Consumer Goods,TCS.NS,India,861.39,860.67
+2024,Western Europe,Western Europe,Global Aggregate,Tata Consultancy Services,Cybersecurity & Identity,Infrastructure Operations,Enterprise Solutions,Manufacturing,TCS.NS,India,883.96,854.98
+2024,Asia/Pacific,Asia/Pacific,Global Aggregate,Tata Consultancy Services,Cloud Infrastructure & Platform Services,Infrastructure Operations,Enterprise Solutions,Manufacturing,TCS.NS,India,538.19,543.82
+2024,Asia/Pacific,Asia/Pacific,Global Aggregate,Tata Consultancy Services,Enterprise Application Software,managed services  ,Enterprise Solutions,Retail & Consumer Goods,TCS.NS,India,678.44,688.02
+2024,Asia/Pacific,Asia/Pacific,Global Aggregate,Tata Consultancy Services,IT Management Services,Application Implementation,Enterprise Solutions,Manufacturing,TCS.NS,India,617.18,618.4
+2024,Asia/Pacific,Asia/Pacific,Global Aggregate,Tata Consultancy Services,Cybersecurity & Identity,Data & AI Consulting,Enterprise Solutions,Banking & Financial Services,TCS.NS,India,666.67,665.48
+2024,Latin America,Latin America,Global Aggregate,Tata Consultancy Services,Cloud Infrastructure & Platform Services,Application Implementation,Enterprise Solutions,Retail & Consumer Goods,TCS.NS,India,181.93,182.27
+2024,Latin America,Latin America,Global Aggregate,Tata Consultancy Services,Enterprise Application Software,Data & AI Consulting,Enterprise Solutions,Manufacturing,TCS.NS,India,144.06,138.82
+2024,Latin America,Latin America,Global Aggregate,Tata Consultancy Services,IT Management Services,Managed Services,Enterprise Solutions,Public Sector & Government,TCS.NS,India,144.95,146.82
+2024,Latin America,Latin America,Global Aggregate,Tata Consultancy Services,Cybersecurity & Identity,Data & AI Consulting,Enterprise Solutions,Manufacturing,TCS.NS,India,144.32,144.36
+2024,Middle East & Africa,Middle East & Africa,Global Aggregate,Tata Consultancy Services,Cloud Infrastructure & Platform Services,Managed Services,Enterprise Solutions,Public Sector & Government,TCS.NS,India,89.5,87.22
+2024,Middle East & Africa,Middle East & Africa,Global Aggregate,Tata Consultancy Services,Enterprise Application Software,infrastructure operations  ,Enterprise Solutions,Public Sector & Government,TCS.NS,India,110.21,108.43
+2024,Middle East & Africa,Middle East & Africa,Global Aggregate,Tata Consultancy Services,IT Management Services,Infrastructure Operations,Enterprise Solutions,Public Sector & Government,TCS.NS,India,102.69,100.76
+2024,Middle East & Africa,Middle East & Africa,Global Aggregate,Tata Consultancy Services,Cybersecurity & Identity,application implementation  ,Enterprise Solutions,Banking & Financial Services,TCS.NS,India,106.35,107.24
+2024,North America,North America,Global Aggregate,Infosys,Cloud Infrastructure & Platform Services,Managed Services,Enterprise Solutions,Banking & Financial Services,INFY,India,1325.17,1284.53
+2024,North America,North America,Global Aggregate,Infosys,Enterprise Application Software,Application Implementation,Enterprise Solutions,Public Sector & Government,INFY,India,1645.33,1693.87
+2024,North America,North America,Global Aggregate,Infosys,IT Management Services,Infrastructure Operations,Enterprise Solutions,Manufacturing,INFY,India,1490.81,1511.54
+2024,North America,North America,Global Aggregate,Infosys,Cybersecurity & Identity,Infrastructure Operations,Enterprise Solutions,Banking & Financial Services,INFY,India,1380.82,1327.12
+2024,Western Europe,Western Europe,Global Aggregate,Infosys,Cloud Infrastructure & Platform Services,Managed Services,Enterprise Solutions,Healthcare & Life Sciences,INFY,India,933.5,911.79
+2024,Western Europe,Western Europe,Global Aggregate,Infosys,Enterprise Application Software,Application Implementation,Enterprise Solutions,Public Sector & Government,INFY,India,929.22,955.85
+2024,Western Europe,Western Europe,Global Aggregate,Infosys,IT Management Services,application implementation  ,Enterprise Solutions,Public Sector & Government,INFY,India,753.78,749.07
+2024,Western Europe,Western Europe,Global Aggregate,Infosys,Cybersecurity & Identity,managed services  ,Enterprise Solutions,Healthcare & Life Sciences,INFY,India,903.1,899.15
+2024,Asia/Pacific,Asia/Pacific,Global Aggregate,Infosys,Cloud Infrastructure & Platform Services,Infrastructure Operations,Enterprise Solutions,Public Sector & Government,INFY,India,598.35,584.05
+2024,Asia/Pacific,Asia/Pacific,Global Aggregate,Infosys,Enterprise Application Software,infrastructure operations  ,Enterprise Solutions,Banking & Financial Services,INFY,India,513.88,528.17
+2024,Asia/Pacific,Asia/Pacific,Global Aggregate,Infosys,IT Management Services,Infrastructure Operations,Enterprise Solutions,Public Sector & Government,INFY,India,624.92,629.71
+2024,Asia/Pacific,Asia/Pacific,Global Aggregate,Infosys,Cybersecurity & Identity,data & ai consulting  ,Enterprise Solutions,Public Sector & Government,INFY,India,581.0,585.23
+2024,Latin America,Latin America,Global Aggregate,Infosys,Cloud Infrastructure & Platform Services,infrastructure operations  ,Enterprise Solutions,Banking & Financial Services,INFY,India,163.44,162.42
+2024,Latin America,Latin America,Global Aggregate,Infosys,Enterprise Application Software,Data & AI Consulting,Enterprise Solutions,Retail & Consumer Goods,INFY,India,181.16,179.96
+2024,Latin America,Latin America,Global Aggregate,Infosys,IT Management Services,infrastructure operations  ,Enterprise Solutions,Manufacturing,INFY,India,183.41,181.16
+2024,Latin America,Latin America,Global Aggregate,Infosys,Cybersecurity & Identity,infrastructure operations  ,Enterprise Solutions,Retail & Consumer Goods,INFY,India,173.06,172.63
+2024,Middle East & Africa,Middle East & Africa,Global Aggregate,Infosys,Cloud Infrastructure & Platform Services,infrastructure operations  ,Enterprise Solutions,Healthcare & Life Sciences,INFY,India,99.8,101.28
+2024,Middle East & Africa,Middle East & Africa,Global Aggregate,Infosys,Enterprise Application Software,infrastructure operations  ,Enterprise Solutions,Retail & Consumer Goods,INFY,India,103.74,102.83
+2024,Middle East & Africa,Middle East & Africa,Global Aggregate,Infosys,IT Management Services,Infrastructure Operations,Enterprise Solutions,Retail & Consumer Goods,INFY,India,105.87,108.41
+2024,Middle East & Africa,Middle East & Africa,Global Aggregate,Infosys,Cybersecurity & Identity,Application Implementation,Enterprise Solutions,Retail & Consumer Goods,INFY,India,102.8,99.4
+2024,North America,North America,Global Aggregate,Snowflake,Cloud Infrastructure & Platform Services,application implementation  ,Enterprise Solutions,Manufacturing,SNOW,United States,1439.84,1473.65
+2024,North America,North America,Global Aggregate,Snowflake,Enterprise Application Software,Infrastructure Operations,Enterprise Solutions,Healthcare & Life Sciences,SNOW,United States,1467.83,1526.46
+2024,North America,North America,Global Aggregate,Snowflake,IT Management Services,Data & AI Consulting,Enterprise Solutions,Retail & Consumer Goods,SNOW,United States,1519.83,1480.28
+2024,North America,North America,Global Aggregate,Snowflake,Cybersecurity & Identity,Managed Services,Enterprise Solutions,Retail & Consumer Goods,SNOW,United States,1413.18,1426.47
+2024,Western Europe,Western Europe,Global Aggregate,Snowflake,Cloud Infrastructure & Platform Services,Managed Services,Enterprise Solutions,Public Sector & Government,SNOW,United States,724.95,715.69
+2024,Western Europe,Western Europe,Global Aggregate,Snowflake,Enterprise Application Software,Data & AI Consulting,Enterprise Solutions,Manufacturing,SNOW,United States,727.22,706.93
+2024,Western Europe,Western Europe,Global Aggregate,Snowflake,IT Management Services,Managed Services,Enterprise Solutions,Public Sector & Government,SNOW,United States,851.86,883.39
+2024,Western Europe,Western Europe,Global Aggregate,Snowflake,Cybersecurity & Identity,Managed Services,Enterprise Solutions,Manufacturing,SNOW,United States,807.46,830.61
+2024,Asia/Pacific,Asia/Pacific,Global Aggregate,Snowflake,Cloud Infrastructure & Platform Services,Managed Services,Enterprise Solutions,Banking & Financial Services,SNOW,United States,542.39,527.94
+2024,Asia/Pacific,Asia/Pacific,Global Aggregate,Snowflake,Enterprise Application Software,Managed Services,Enterprise Solutions,Retail & Consumer Goods,SNOW,United States,485.52,477.45
+2024,Asia/Pacific,Asia/Pacific,Global Aggregate,Snowflake,IT Management Services,Infrastructure Operations,Enterprise Solutions,Public Sector & Government,SNOW,United States,578.97,560.41
+2024,Asia/Pacific,Asia/Pacific,Global Aggregate,Snowflake,Cybersecurity & Identity,Data & AI Consulting,Enterprise Solutions,Healthcare & Life Sciences,SNOW,United States,479.99,468.54
+2024,Latin America,Latin America,Global Aggregate,Snowflake,Cloud Infrastructure & Platform Services,Infrastructure Operations,Enterprise Solutions,Banking & Financial Services,SNOW,United States,138.85,142.28
+2024,Latin America,Latin America,Global Aggregate,Snowflake,Enterprise Application Software,Data & AI Consulting,Enterprise Solutions,Healthcare & Life Sciences,SNOW,United States,131.63,130.29
+2024,Latin America,Latin America,Global Aggregate,Snowflake,IT Management Services,Infrastructure Operations,Enterprise Solutions,Healthcare & Life Sciences,SNOW,United States,134.62,137.35
+2024,Latin America,Latin America,Global Aggregate,Snowflake,Cybersecurity & Identity,Infrastructure Operations,Enterprise Solutions,Healthcare & Life Sciences,SNOW,United States,163.95,162.81
+2024,Middle East & Africa,Middle East & Africa,Global Aggregate,Snowflake,Cloud Infrastructure & Platform Services,Infrastructure Operations,Enterprise Solutions,Manufacturing,SNOW,United States,98.17,97.08
+2024,Middle East & Africa,Middle East & Africa,Global Aggregate,Snowflake,Enterprise Application Software,Managed Services,Enterprise Solutions,Banking & Financial Services,SNOW,United States,96.09,96.22
+2024,Middle East & Africa,Middle East & Africa,Global Aggregate,Snowflake,IT Management Services,managed services  ,Enterprise Solutions,Retail & Consumer Goods,SNOW,United States,87.54,89.45
+2024,Middle East & Africa,Middle East & Africa,Global Aggregate,Snowflake,Cybersecurity & Identity,infrastructure operations  ,Enterprise Solutions,Banking & Financial Services,SNOW,United States,94.54,95.61
+2024,North America,North America,Global Aggregate,Datadog,Cloud Infrastructure & Platform Services,Managed Services,Enterprise Solutions,Manufacturing,DDOG,United States,1786.64,1775.11
+2024,North America,North America,Global Aggregate,Datadog,Enterprise Application Software,Data & AI Consulting,Enterprise Solutions,Retail & Consumer Goods,DDOG,United States,1756.86,1687.7
+2024,North America,North America,Global Aggregate,Datadog,IT Management Services,Data & AI Consulting,Enterprise Solutions,Manufacturing,DDOG,United States,1762.13,1790.37
+2024,North America,North America,Global Aggregate,Datadog,Cybersecurity & Identity,Infrastructure Operations,Enterprise Solutions,Manufacturing,DDOG,United States,1623.14,1638.49
+2024,Western Europe,Western Europe,Global Aggregate,Datadog,Cloud Infrastructure & Platform Services,Infrastructure Operations,Enterprise Solutions,Public Sector & Government,DDOG,United States,917.6,945.57
+2024,Western Europe,Western Europe,Global Aggregate,Datadog,Enterprise Application Software,managed services  ,Enterprise Solutions,Retail & Consumer Goods,DDOG,United States,819.61,833.96
+2024,Western Europe,Western Europe,Global Aggregate,Datadog,IT Management Services,Application Implementation,Enterprise Solutions,Manufacturing,DDOG,United States,792.64,766.82
+2024,Western Europe,Western Europe,Global Aggregate,Datadog,Cybersecurity & Identity,Data & AI Consulting,Enterprise Solutions,Healthcare & Life Sciences,DDOG,United States,726.4,749.08
+2024,Asia/Pacific,Asia/Pacific,Global Aggregate,Datadog,Cloud Infrastructure & Platform Services,data & ai consulting  ,Enterprise Solutions,Retail & Consumer Goods,DDOG,United States,626.66,651.07
+2024,Asia/Pacific,Asia/Pacific,Global Aggregate,Datadog,Enterprise Application Software,Managed Services,Enterprise Solutions,Retail & Consumer Goods,DDOG,United States,544.49,544.82
+2024,Asia/Pacific,Asia/Pacific,Global Aggregate,Datadog,IT Management Services,managed services  ,Enterprise Solutions,Banking & Financial Services,DDOG,United States,577.76,581.11
+2024,Asia/Pacific,Asia/Pacific,Global Aggregate,Datadog,Cybersecurity & Identity,Managed Services,Enterprise Solutions,Healthcare & Life Sciences,DDOG,United States,640.54,665.6
+2024,Latin America,Latin America,Global Aggregate,Datadog,Cloud Infrastructure & Platform Services,Application Implementation,Enterprise Solutions,Retail & Consumer Goods,DDOG,United States,171.16,175.47
+2024,Latin America,Latin America,Global Aggregate,Datadog,Enterprise Application Software,Application Implementation,Enterprise Solutions,Manufacturing,DDOG,United States,174.61,169.1
+2024,Latin America,Latin America,Global Aggregate,Datadog,IT Management Services,Application Implementation,Enterprise Solutions,Retail & Consumer Goods,DDOG,United States,160.76,156.21
+2024,Latin America,Latin America,Global Aggregate,Datadog,Cybersecurity & Identity,Infrastructure Operations,Enterprise Solutions,Banking & Financial Services,DDOG,United States,143.06,142.2
+2024,Middle East & Africa,Middle East & Africa,Global Aggregate,Datadog,Cloud Infrastructure & Platform Services,Application Implementation,Enterprise Solutions,Public Sector & Government,DDOG,United States,85.42,86.63
+2024,Middle East & Africa,Middle East & Africa,Global Aggregate,Datadog,Enterprise Application Software,Infrastructure Operations,Enterprise Solutions,Manufacturing,DDOG,United States,105.98,109.13
+2024,Middle East & Africa,Middle East & Africa,Global Aggregate,Datadog,IT Management Services,Infrastructure Operations,Enterprise Solutions,Public Sector & Government,DDOG,United States,103.34,107.04
+2024,Middle East & Africa,Middle East & Africa,Global Aggregate,Datadog,Cybersecurity & Identity,Infrastructure Operations,Enterprise Solutions,Healthcare & Life Sciences,DDOG,United States,97.97,97.85

@@ -1,0 +1,14 @@
+# Data Processing & Storage (Zero JVM footprint)
+duckdb>=0.10.0
+polars>=0.20.0
+pyarrow>=14.0.0
+
+# Scientific & Analytical Computation
+numpy>=1.24.0
+
+# Interactive Dashboard & Visualizations
+streamlit>=1.30.0
+
+# Quality Assurance & Testing
+pytest>=7.4.0
+ruff>=0.1.6
