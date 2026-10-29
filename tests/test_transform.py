@@ -6,7 +6,7 @@ from src.etl.transform import MarketShareTransformer
 
 
 def test_clean_column_name():
-    # Tests the exact problem Nirmit29's project addressed
+    # Verify vendor and revenue schema variant reconciliation
     assert MarketShareTransformer.clean_column_name("Vendor.1") == "Vendor"
     assert MarketShareTransformer.clean_column_name("Vendor1") == "Vendor"
     assert MarketShareTransformer.clean_column_name("Vendor Name") == "Vendor"

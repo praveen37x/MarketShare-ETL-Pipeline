@@ -46,7 +46,7 @@ class MarketShareDataGenerator:
 
                 for s1 in config.SERVICES_1:
                     s2 = random.choice(config.SERVICES_2)
-                    # Introduce realistic dirty formatting like Nirmit29 experienced
+                    # Simulate real-world raw dirty formatting (trailing whitespace and irregular case)
                     if random.random() < 0.25:
                         s2_dirty = s2.lower() + "  "
                     else:
